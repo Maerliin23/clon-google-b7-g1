@@ -1,3 +1,3 @@
-# Mi portafolio de Habilidades TECHNOLOCHICAS PRO
+##CLON DE GOOGLE
 
 <h2>Mi portafolio</h2>
