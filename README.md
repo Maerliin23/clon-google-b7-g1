@@ -19,10 +19,14 @@
 
 4. **Funcionalidad y Responsividad**:
    - Me aseguré de que la página fuera responsiva, es decir, que funcionara bien tanto en computadoras como en dispositivos móviles. Para ello, utilicé el sistema de rejilla de Bootstrap.
-   - Incluso, añadí un poco de JavaScript básico para simular la funcionalidad de búsqueda o mostrar alertas, lo que hizo la experiencia más interactiva.
+
 
 5. **Revisión y Pruebas**:
    - Finalmente, revisé mi trabajo para asegurarme de que todos los elementos estuvieran correctamente alineados y que la página se pareciera lo más posible a la original. Probé la página en diferentes dispositivos para confirmar que era completamente responsiva.
 
 Este proyecto no solo me ayudó a reforzar mis habilidades en HTML y Bootstrap, sino que también me dio la confianza para seguir aprendiendo y creando interfaces web modernas y funcionales.
 </h3>
+
+## VISTA PREVIA
+![image](https://github.com/user-attachments/assets/04658be4-ddb4-4ee3-a35a-514b6e0f0b53)
+
