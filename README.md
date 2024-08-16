@@ -21,6 +21,6 @@ Proyecto desplegado: https://googleclongzm.netlify.app/
 
 ---
 
-Desarrollado con  💜 por [Marlen](https://deluxe-twilight-f4179f.netlify.app ) en [TECHNOLOCHICAS PRO](https://tecnolochicas.mx/)
+Desarrollado con  💜 por [Marlen](https://mi-portafolio-marlengz.netlify.app) en [TECHNOLOCHICAS PRO](https://tecnolochicas.mx/)
 
 
